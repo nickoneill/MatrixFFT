@@ -11,4 +11,6 @@ The files were publicly available previously, albeit tucked away on a mailing li
 As for the referenced paper ("Large-scale FFTs and convolutions
 on Apple hardware") to go with the code, it's available as [FFTapps.pdf](https://github.com/nickoneill/MatrixFFT/raw/master/FFTapps.pdf).
 
+I've posted exactly the files as I retrieved them (last updated October 2011) and it looks like there are a few deprecations that require fixing for building with the latest SDK. I don't have plans to do this myself but I would accept pull requests.
+
 **Disclaimer:** I am not the original creator of this code and I am in no way claiming ownership or copyright on it. It is simply no longer hosted on the Apple Advanced Computation Group site.
